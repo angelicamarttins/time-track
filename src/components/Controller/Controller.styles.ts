@@ -7,13 +7,15 @@ export const StyledController = styled.div`
 	justify-content: center;
 	align-items: center;
 	padding: 2rem;
-	
+	margin: auto;
+
 	@media (min-width: 850px) {
 		flex-direction: row;
 		position: absolute;
+		left: 5%;
 		top: 45%;
 		bottom: 50%;
-		width: 100%;
+		width: 90%;
 	}
 `
 
