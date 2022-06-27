@@ -40,7 +40,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Git repository]([https://your-solution-url.com](https://github.com/angelicamarttins/time-track))
+- Solution URL: [Git repository]([https://your-solution-url.com](https://github.com/angelicamarttins/time-track)
 - Live Site URL: [Site deployed in Netlify](https://timetrackdashboard.netlify.app/)
 
 ## My process
