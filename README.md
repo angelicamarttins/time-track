@@ -77,7 +77,7 @@ Besides TypeScript, I used Styled Components for the first time and I'm very imp
 
 ### Continued development
 
-In my conception, I need to understand better some hooks, like useMemo and useCallback. In some parts of this project, I think I could have use some React hooks, not only this I mentioned. Other things I need to understand better is how to type some props in different contexts. 
+In my conception, I need to understand better some hooks, like useMemo and useCallback. In some parts of this project, I think I could have use some React hooks, not only these I mentioned. Other things I need to understand better is how to type some props in different contexts. 
 
 ### Useful resources
 
