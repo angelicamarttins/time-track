@@ -40,7 +40,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Git repository]([https://your-solution-url.com](https://github.com/angelicamarttins/time-track)
+- Solution URL: [Git repository](https://github.com/angelicamarttins/time-track)
 - Live Site URL: [Site deployed in Netlify](https://timetrackdashboard.netlify.app/)
 
 ## My process
@@ -67,7 +67,7 @@ In my conception, I need to understand better some hooks, like useMemo and useCa
 
 ### Useful resources
 
-- [TypeScript Casting]([https://www.example.com](https://www.w3schools.com/typescript/typescript_casting.php#:~:text=There%20are%20times%20when%20working,process%20of%20overriding%20a%20type.) - This helped me to make TypeScript understand a string as a property of a enum.
+- [TypeScript Casting](https://www.w3schools.com/typescript/typescript_casting.php#:~:text=There%20are%20times%20when%20working,process%20of%20overriding%20a%20type.): This helped me to make TypeScript understand a string as a property of a enum.
 
 ## Author
 
