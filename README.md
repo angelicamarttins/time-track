@@ -50,7 +50,7 @@ Users should be able to:
 
 ### Screenshot
 ![screenshot-1440px](https://user-images.githubusercontent.com/82389853/175815047-c468dbc9-49f4-4cbb-b2d4-6dd44c11e179.png)
-![screenshot-375px](https://user-images.githubusercontent.com/82389853/175815059-eef775d7-26f7-47ba-9381-e5769eb9a227.png)
+![screenshot-375px](https://user-images.githubusercontent.com/82389853/176169892-86f62e08-8dda-4830-8d7a-cb6890e8261f.png)
 
 ### Links
 
