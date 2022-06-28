@@ -7,7 +7,7 @@ export const StyledUser = styled.div`
 	align-items: center;
   
 	background-color: ${colors.backgroundUser};
-	padding: 2rem;
+	padding: 1rem;
 	border-radius: 10px;
 
 	img {
