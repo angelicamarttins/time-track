@@ -14,7 +14,6 @@ export const StyledUser = styled.div`
 		width: 50px;
 		border: 3px solid white;
 		border-radius: 50%;
-		/* margin-bottom: 1.75rem; */
 	}
 
 	p {
